@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @daniellabohman
-- 👀 I’m interested in data science!
+- 👀 I’m interested in data & software development!
 - 📫 How to reach me: E-mail: daniellabohman@protonmail.com
-- ⚡ Fun fact: former elite football player  
+- ⚡ Fun fact: Former elite football player  
 
